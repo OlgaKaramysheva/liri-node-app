@@ -1,1 +1,1 @@
-# node_project
+# liri-node-app
